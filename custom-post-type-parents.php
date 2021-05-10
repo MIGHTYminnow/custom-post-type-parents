@@ -232,7 +232,7 @@ class Custom_Post_Type_Parents {
 
         // Add class for parent post
         if ( $menu_item_id == $custom_post_type_parent_id ) {
-            $classes[] = 'custom-custom-post-type-parent';
+            $classes[] = 'current-custom-post-type-parent';
             $classes[] = 'current-menu-parent';
             $classes[] = 'current-' . $current_post_type . '-parent';
 
@@ -242,7 +242,7 @@ class Custom_Post_Type_Parents {
 
         // Add class for ancestor posts
         if ( in_array ( $menu_item_id, $ancestor_ids ) ) {
-            $classes[] = 'custom-custom-post-type-ancestor';
+            $classes[] = 'current-custom-post-type-ancestor';
             $classes[] = 'current-menu-ancestor';
             $classes[] = 'current-' . $current_post_type . '-ancestor';
 
