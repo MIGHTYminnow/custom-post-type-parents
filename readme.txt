@@ -53,6 +53,9 @@ Custom Post Type Parents applies the following classes to parent and ancestor pa
 
 == Changelog ==
 
+= 1.1.3 =
+* Change CSS classname (from custom- to current-) to match documentation and keep the same format for all classes.
+
 = 1.1.2 =
 * Fix: memory issue infinitely calling constructor.
 
