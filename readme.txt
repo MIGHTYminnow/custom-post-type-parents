@@ -3,7 +3,7 @@ Contributors:      McGuive7, MIGHTYminnow
 Donate link:       http://wordpress.org/plugins/custom-post-type-parents
 Tags:              custom, post, type, parent, menu, list, pages
 Requires at least: 3.5
-Tested up to:      5.7.1
+Tested up to:      5.9.2
 Stable tag:        1.1.3
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
@@ -11,6 +11,8 @@ License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 Set a "parent page" for custom post types that is indicated in menus, lists of pages, and the Simple Section Navigation widget.
 
 == Description ==
+
+**Compatible with PHP 8.0**
 
 **Like this plugin? Please consider [leaving a 5-star review](https://wordpress.org/support/view/plugin-reviews/custom-post-type-parents).**
 
